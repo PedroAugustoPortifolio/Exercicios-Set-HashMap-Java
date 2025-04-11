@@ -1,0 +1,30 @@
+Crie um HashSet e adicione 5 nomes a ele.
+
+Verifique se um nome específico está presente no HashSet.
+
+Remova um nome do HashSet.
+
+Itere sobre os elementos de um HashSet e imprima-os.
+
+Crie um HashMap<String, Integer> para armazenar idades de pessoas.
+
+Adicione 3 pares nome-idade no HashMap.
+
+Atualize a idade de uma pessoa no HashMap.
+
+Verifique se uma chave existe no HashMap.
+
+Verifique se um valor existe no HashMap.
+
+Remova uma entrada do HashMap.
+
+Itere sobre as chaves de um HashMap.
+
+Itere sobre os valores de um HashMap.
+
+Itere sobre as entradas (key-value) do HashMap.
+
+Obtenha o valor associado a uma chave específica.
+
+Obtenha o tamanho de um HashSet e de um HashMap.
+
